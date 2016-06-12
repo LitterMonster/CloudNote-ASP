@@ -42,3 +42,13 @@ in the source code.
 
 ##Feedback
 *You can give me some suggestion about this project, you can send me some emails(zhangtao1906@gmail.com)
+
+##Screenshot
+*Login Page
+![Alt text](http://file.littermonster.net/GitHub_Picture/login.PNG "login page")
+*Main Page
+![Alt text](http://file.littermonster.net/GitHub_Picture/main.PNG "main page")
+*My notes Center
+![Alt text](http://file.littermonster.net/GitHub_Picture/mycenter.PNG "my notes center page")
+*Create Note
+![Alt text](http://file.littermonster.net/GitHub_Picture/createnote.PNG "create note page")
